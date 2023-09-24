@@ -16,10 +16,10 @@ Salient and complementary features are extracted from histopathological whole sl
 Summary result of Genomics preprocessing.
 Note: Before Preprocessing(BP), After Preprocessing (AP).
 
-| Biological Data   |  No. of Samples (BP) | No. of Features (BP)  | No. of Overlapping Samples  | No. of Features (AP} |.
-| :---------------   | :--------------------| :-------------------- | :-------------------- |:-------------------- |.
-|  mRNA		|  328	  |  20,502 |  255	  |   16,377    |.
-|  miRNA		 | 261	   | 1,870   |  255 |  420 |.
+| Biological Data   |  No. of Samples (BP) | No. of Features (BP)  | No. of Overlapping Samples  | No. of Features (AP} |
+| :---------------   | :--------------------| :-------------------- | :-------------------- |:-------------------- |
+|  mRNA		|  328	  |  20,502 |  255	  |   16,377    |
+|  miRNA		 | 261	   | 1,870   |  255 |  420 |
 |  DNA methylation  | 353 | 20,759 | 255 | 20,129 |
 
 #### H&E histopathological image preprocessing
